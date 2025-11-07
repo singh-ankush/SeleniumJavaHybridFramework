@@ -1,0 +1,18 @@
+2025-10-02 20:47:20 INFO  TestBase:61 - Starting tests on chrome browser.
+2025-10-02 20:47:22 INFO  TestBase:137 - Driver initialization completed.
+2025-10-02 20:47:50 ERROR ReusableFunctions:88 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: (//*[text()='Show results'])[1] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'LAPTOP-GTUR86TE', ip: '192.168.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\ANKUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 996a0c18fd93fb29a5d49b2078f8f033
+2025-10-02 20:47:50 INFO  MainPage:47 - Trying to scrape content
+2025-10-02 20:47:50 ERROR ReusableFunctions:366 - Cannot scrape org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"((//div[@class='fie-impression-container'])//span[contains(@class,'break')])[0]"}
+  (Session info: chrome=140.0.7339.208)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'LAPTOP-GTUR86TE', ip: '192.168.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\ANKUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 996a0c18fd93fb29a5d49b2078f8f033
+*** Element info: {Using=xpath, value=((//div[@class='fie-impression-container'])//span[contains(@class,'break')])[0]}

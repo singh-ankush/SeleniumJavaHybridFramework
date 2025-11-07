@@ -1,0 +1,46 @@
+2025-08-04 12:56:08 INFO  TestBase:61 - Starting tests on chrome browser.
+2025-08-04 12:56:13 INFO  TestBase:137 - Driver initialization completed.
+2025-08-04 12:56:13 INFO  MainPage:55 - Trying login with provided credentials
+2025-08-04 12:56:24 ERROR ReusableFunctions:40 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element located by By.xpath: //div[contains(@style, 'transition')] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-04 12:56:24 INFO  MainPage:78 - Verifying BI creation
+2025-08-04 12:56:30 ERROR ReusableFunctions:106 - Exception Occurred While Clicking The Element: element click intercepted: Element <label for="Gender-M" class="cmp-selection__field-lable" tabindex="0">...</label> is not clickable at point (336, 435). Other element would receive the click: <div class="cmp-form__form-group">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'INDHYDELP221', ip: '172.22.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\ANKUSH~1.SIN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94501b34785658c0a8092df8ee0e0734
+2025-08-04 12:57:17 ERROR ReusableFunctions:40 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element located by By.xpath: //button[text()='VIEW BI'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-04 12:57:17 INFO  MainPage:35 - Trying to convert to application:
+2025-08-04 12:57:18 INFO  MainPage:55 - Selecting physical kyc
+2025-08-04 12:57:25 INFO  MainPage:89 - Trying operation on main page
+2025-08-04 12:57:33 INFO  MainPage:128 - Entering communication details:
+2025-08-04 12:57:44 ERROR ReusableFunctions:82 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //input[@id='IsPASameCA'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'INDHYDELP221', ip: '172.22.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\ANKUSH~1.SIN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94501b34785658c0a8092df8ee0e0734
+2025-08-04 12:57:46 INFO  MainPage:188 - Entering family details
+2025-08-04 12:58:01 ERROR ReusableFunctions:82 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='SUBMIT DETAILS'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'INDHYDELP221', ip: '172.22.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\ANKUSH~1.SIN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94501b34785658c0a8092df8ee0e0734
+2025-08-04 12:58:01 INFO  MainPage:223 - Trying to add nominee:
+2025-08-04 12:58:08 INFO  MainPage:293 - adding health details
+2025-08-04 12:58:23 ERROR ReusableFunctions:82 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //label[@for='3303_false'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-04 12:58:33 ERROR ReusableFunctions:82 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //label[@for='3310_false'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-04 12:58:33 INFO  MainPage:337 - trying to enter lifestyle details
+2025-08-04 12:58:36 INFO  MainPage:375 - trying to enter la details
+2025-08-04 12:58:49 ERROR ReusableFunctions:40 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='icon-close'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-04 12:58:59 ERROR ReusableFunctions:82 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='icon-close'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-04 12:58:59 INFO  MainPage:411 - Entering fatca details
+2025-08-04 12:59:08 ERROR ReusableFunctions:106 - Exception Occurred While Clicking The Element: element click intercepted: Element <div class="cmp-report__tile">...</div> is not clickable at point (721, 495). Other element would receive the click: <div aria-hidden="true" class="MuiBackdrop-root MuiModal-backdrop css-919eu4" style="opacity: 1; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1);"></div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'INDHYDELP221', ip: '172.22.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\ANKUSH~1.SIN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94501b34785658c0a8092df8ee0e0734

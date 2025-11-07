@@ -1,0 +1,11 @@
+2025-10-02 20:41:08 INFO  TestBase:61 - Starting tests on chrome browser.
+2025-10-02 20:41:14 INFO  TestBase:137 - Driver initialization completed.
+2025-10-02 20:41:40 ERROR ReusableFunctions:88 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //input[@id='datePosted-past-24h'] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'LAPTOP-GTUR86TE', ip: '192.168.0.136', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\ANKUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54874}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 711d3c94e5c564df13a9b2333432ebac
+2025-10-02 20:41:55 ERROR ReusableFunctions:88 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[7]/div[3]/div[2]/section/div/nav/div/ul/li[3]/div/div/div/div[1]/div/form/fieldset/div[2]/button[2] (tried for 15 second(s) with 500 milliseconds interval)
+2025-10-02 20:41:55 INFO  MainPage:47 - Trying to scrape content
+2025-10-02 20:41:56 ERROR ReusableFunctions:366 - Cannot scrape

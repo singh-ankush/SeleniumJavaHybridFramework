@@ -1,0 +1,41 @@
+2025-08-14 10:34:59 INFO  TestBase:61 - Starting tests on chrome browser.
+2025-08-14 10:35:08 INFO  TestBase:137 - Driver initialization completed.
+2025-08-14 10:35:09 INFO  MainPage:55 - Trying login with provided credentials
+2025-08-14 10:35:20 ERROR ReusableFunctions:44 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element located by By.xpath: //div[contains(@style, 'transition')] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-14 10:35:20 INFO  MainPage:97 - Verifying BI creation
+2025-08-14 10:35:29 ERROR ReusableFunctions:110 - Exception Occurred While Clicking The Element: element click intercepted: Element <label for="Gender-M" class="cmp-selection__field-lable" tabindex="0">...</label> is not clickable at point (336, 429). Other element would receive the click: <div class="cmp-form__form-group">...</div>
+  (Session info: chrome=139.0.7258.128)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'INDHYDELP221', ip: '192.168.0.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.68 (40ff94600b6e..., userDataDir: C:\Users\ANKUSH~1.SIN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdaa23137db21669a47df486c9bdf0a4
+2025-08-14 10:36:29 ERROR ReusableFunctions:44 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element located by By.xpath: //button[text()='VIEW BI'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-14 10:36:29 INFO  MainPage:219 - Trying to convert to application:
+2025-08-14 10:36:30 INFO  MainPage:240 - Selecting physical kyc
+2025-08-14 10:36:48 ERROR ReusableFunctions:86 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='No'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-14 10:36:48 INFO  MainPage:267 - Trying operation on main page
+2025-08-14 10:37:04 INFO  MainPage:293 - Entering communication details:
+2025-08-14 10:37:15 ERROR ReusableFunctions:86 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //input[@id='IsPASameCA'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'INDHYDELP221', ip: '192.168.0.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.68 (40ff94600b6e..., userDataDir: C:\Users\ANKUSH~1.SIN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdaa23137db21669a47df486c9bdf0a4
+2025-08-14 10:37:18 INFO  MainPage:320 - Entering family details
+2025-08-14 10:37:28 INFO  MainPage:355 - Trying to add nominee:
+2025-08-14 10:37:39 INFO  MainPage:389 - adding health details
+2025-08-14 10:37:49 INFO  MainPage:433 - trying to enter lifestyle details
+2025-08-14 10:37:52 INFO  MainPage:460 - trying to enter la details
+2025-08-14 10:38:05 INFO  MainPage:493 - Entering fatca details
+2025-08-14 10:38:06 INFO  MainPage:514 - Entering form 60 details
+2025-08-14 10:38:17 INFO  MainPage:548 - Trying to enter summary
+2025-08-14 10:38:33 INFO  MainPage:594 - Trying to enter otp
+2025-08-14 10:38:56 INFO  MainPage:635 - Trying to enter payment details
+2025-08-14 10:38:58 INFO  MainPage:656 - checking if payment done
+2025-08-14 10:39:08 ERROR ReusableFunctions:86 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()='Continue'] (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-14 10:39:08 INFO  MainPage:673 - Trying to upload docs
+2025-08-14 10:39:19 ERROR ReusableFunctions:44 - Exception Occurred While Locating The Element: Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Cash Authorization Letter']/following-sibling::*[1]//input (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-14 10:39:29 ERROR ReusableFunctions:86 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: //label[text()='Cash Authorization Letter']/following-sibling::*[1]//input (tried for 10 second(s) with 500 milliseconds interval)
+2025-08-14 10:39:30 ERROR MainPage:695 - cannot upload
+2025-08-14 10:39:31 INFO  ReusableFunctions:153 - Saving screenshot to failed repo: C:\Users\ankushkumar.singh\Downloads\SeleniumJavaHybridFramework\Screenshots\SeleniumTestScreen20250814103930.png

@@ -1,0 +1,5 @@
+2025-10-02 20:44:31 INFO  TestBase:61 - Starting tests on chrome browser.
+2025-10-02 20:44:34 INFO  TestBase:137 - Driver initialization completed.
+2025-10-02 20:45:00 ERROR ReusableFunctions:88 - Exception Occurred While Locating The Element: Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[7]/div[3]/div[2]/section/div/nav/div/ul/li[3]/div/div/div/div[1]/div/form/fieldset/div[2]/button[2] (tried for 15 second(s) with 500 milliseconds interval)
+2025-10-02 20:45:00 INFO  MainPage:47 - Trying to scrape content
+2025-10-02 20:45:00 ERROR ReusableFunctions:366 - Cannot scrape
